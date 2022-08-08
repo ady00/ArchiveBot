@@ -42,5 +42,5 @@ async def archive(ctx):
 
 
 
-client.run("MTAwNTk4OTM5MDUwNzU4MTUzMg.G8DMOf.k8_3rlzTcp68-6hk7xJE8AHZbYXYdwfFK6meDM")
+client.run("NOT TODAY FUCKOS no key for you")
 
